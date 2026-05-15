@@ -1,16 +1,16 @@
 [SddmGreeterTheme]
-Name=Arona Theme
+Name=Reisa Theme
 Description=Blue Archive Theme for SDDM
-Author=Machillka
+Author=XinYueNeko
 Copyright=Copyright (C) 2018 Marian Arlts
 License=GPL-3.0-or-later
 Type=sddm-theme
 Version=3.1.7
-Website=https://github.com/Machillka/Arona-sddm-login
+#Website=https://github.com/Machillka/Arona-sddm-login
 Screenshot=Previews/PartialBlur.png
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
-Theme-Id=arona-theme
+Theme-Id=reisa-theme
 Theme-API=2.11
-QtVersion=6
+QtVersion=5
