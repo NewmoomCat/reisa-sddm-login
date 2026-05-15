@@ -25,8 +25,8 @@ In the `[Theme]` section simply add the themes name to this line: `Current=arona
 It can adapt the resolution in your device.
 
 ```bash
-git clone https://github.com/Machillka/arona-sddm-login.git
-cd arona-sddm-login
+git clone https://github.com/NewmoomCat/reisa-sddm-login.git
+cd reisa-sddm-login
 bash install.sh
 ```
 
