@@ -66,4 +66,4 @@ Please drop a glance at the other project about `Blue Archive`
 
 # Thanks to
 
-This repo is built up on the [Sugar Candy login](https://github.com/Kangie/sddm-sugar-candy)
+This repo is built up on the [arona-sddm-login](https://github.com/Machillka/arona-sddm-login)
